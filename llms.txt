@@ -1,0 +1,15 @@
+# ipose
+
+> ipose (App Store name "ipose: pose & photo coach") is a posing coach and a framing coach in one camera, for iPhone and iPad (iOS 27 or later). Pick a pose, hand your phone to whoever is taking the photo, and ipose tells them where to stand, how high to hold the phone and which lens to use, one instruction at a time, then takes the shot when the framing and the pose line up. A Photos tab picks the best shot from bursts of look-alike photos.
+
+- 178 poses drawn as real 3D people (solo, couples, groups, props), each with three cues to say to the person in the photo.
+- 38 framings for the beach, the city, parks, views, cafés, rooms and night, with two marks on the camera for the head and where the photo ends.
+- Recreate a photo: reads a photo's pose and framing on the device so the same shot can be lined up.
+- Everything runs on the device: no account, no ads, no tracking, nothing uploaded.
+- Free with 43 poses, 16 framings and 3 photo picks a day; ipose Pro (yearly or monthly subscription) unlocks the rest.
+
+## Pages
+
+- [Home](https://codyni123.github.io/ipose-site/): what ipose does
+- [Support](https://codyni123.github.io/ipose-site/support/): questions and contact
+- [Privacy policy](https://codyni123.github.io/ipose-site/privacy/): ipose collects no personal data
